@@ -10,7 +10,7 @@ function asignarTextoElemento(elemento, texto) {
     elementoHTML.innerHTML = texto;
     return;
 }
-
+// probando
 function verificarIntento() {
     let numeroDeUsuario = parseInt(document.getElementById('valorUsuario').value);
     
